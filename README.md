@@ -6,7 +6,7 @@ Welcome to the Weather App repository! This web application offers real-time wea
 
 - **Location-based Weather:** Input your location or city name to receive up-to-date weather information, including temperature, humidity, and wind speed.
 - **Responsive Design:** Enjoy a seamless experience on various devices, ensuring a consistent and visually appealing layout.
-- **OpenWeatherMap API Integration:** The app fetches real-time weather data from the OpenWeatherMap API, providing reliable and accurate information.
+- **weather-by-api-ninjas API Integration:** The app fetches real-time weather data from the Weather-by-api-ninjas API, providing reliable and accurate information.
 
 ## Technologies Used
 
